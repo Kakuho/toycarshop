@@ -1,0 +1,15 @@
+.main{
+  height: 100vh;
+  overflow: clip;
+}
+
+.content{
+  height: 82vh;
+  background: #001155;
+}
+
+.content p{
+  margin: 0;
+  padding: 0;
+  color: white;
+}

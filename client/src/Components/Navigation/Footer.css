@@ -1,0 +1,11 @@
+.footer{
+  height: 8vh;
+  width: 100vw;
+  background: blue;
+}
+
+.footer p{
+  color: yellow;
+  padding: 0;
+  margin: 0;
+}

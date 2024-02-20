@@ -1,0 +1,21 @@
+#sort-controller{
+  height: 20%;
+}
+
+.sort-fieldset{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0px;
+  display: flex;
+  row-gap: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sort-fieldset > *{
+  width: 100%;
+  padding-left: 20px;
+}

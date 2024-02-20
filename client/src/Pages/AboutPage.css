@@ -1,0 +1,17 @@
+.about-main{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-card{
+  height: 80%;
+  width: 80%;
+  background: white;
+}
+
+.about-card p{
+  color: black;
+}

@@ -1,0 +1,8 @@
+#sidebar{
+  height: 83vh;
+  border: 2px solid black;
+  width: 15vw;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}

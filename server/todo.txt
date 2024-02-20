@@ -1,0 +1,1 @@
+detects if the db is sqlite, then we perform the value conversion.

@@ -1,0 +1,33 @@
+.product-card{
+  /*border-style: inset;*/
+  background: white;
+  border-radius: 10px;
+}
+
+.product-card:hover{
+  background: yellow;
+}
+
+.box{
+  height: 10px;
+  width: 10px;
+  background: red;
+}
+
+.svg-container{
+  height: 150px;
+  width: 100%;
+}
+
+.product-card .name{
+  font-size: 15px;
+}
+
+.product-card .price{
+  font-size: 15px;
+}
+
+.details{
+  display: flex;
+  justify-content: space-evenly;
+}

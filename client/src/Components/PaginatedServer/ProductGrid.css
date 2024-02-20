@@ -1,0 +1,25 @@
+.product-content{
+  height: 82vh;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 100px;
+}
+
+.product-grid{
+  height: 50vh;
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  column-gap: 25px;
+  row-gap: 25px;
+}
+
+.page-controller{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
